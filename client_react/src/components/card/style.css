@@ -10,6 +10,7 @@
   background-color: rgb(32, 34, 37);
   user-select: none;
   border-radius: 5px;
+  overflow: scroll;
   }
 
 .cannabis {
@@ -34,4 +35,42 @@ a {
   font-family: 'Major Mono Display', monospace;
 }
 
+
+
+
+
+@media only screen and (max-width: 870px) {
+  .card {
+    width: 40vw;
+    height: 40vw;
+  }
+}
+
+@media only screen and (max-width: 674px) {
+  .card {
+    width: 50vw;
+    height: 50vw;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .card {
+    width: 60vw;
+    height: 60vw;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .card {
+    width: 70vw;
+    height: 70vw;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .card {
+    width: 90vw;
+    height: 99vw;
+  }
+}
 

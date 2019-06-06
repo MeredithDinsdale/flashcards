@@ -7,9 +7,9 @@ class Term extends Component {
   render () {
     return (
     <div>
-      <h3>
+      <h4>
         {this.props.data.term} 
-      </h3>
+      </h4>
     </div>
     )
   }
