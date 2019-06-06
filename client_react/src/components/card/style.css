@@ -13,6 +13,12 @@
   overflow: scroll;
   }
 
+
+::-webkit-scrollbar  {
+  background: transparent;
+
+  }
+
 .cannabis {
   color: rgb(109, 206, 150);
  
