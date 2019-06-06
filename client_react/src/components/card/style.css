@@ -1,0 +1,37 @@
+.card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  height: 30vw;
+  width: 30vw;
+  box-shadow: 5px 5px 5px rgb(160, 168, 170);
+  background-color: rgb(32, 34, 37);
+  user-select: none;
+  border-radius: 5px;
+  }
+
+.cannabis {
+  color: rgb(109, 206, 150);
+ 
+}
+
+nav {
+  background-color: rgb(22, 22, 21)
+}
+
+section {
+  padding: 30px;
+}
+
+h3, h4, p {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+a {
+  font-family: 'Major Mono Display', monospace;
+}
+
+
